@@ -1,2 +1,2 @@
-# raisetech-live2-demo2
-レイズテックAWS第二回デモのリポジトリです。２
+# Raisetech-AWSの課題提出  
+* 課題提出用です。
