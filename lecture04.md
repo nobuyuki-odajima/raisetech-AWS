@@ -1,8 +1,8 @@
 ## 第4回課題
 * AWS 上に新しく VPC を作ってください。  
 <br>
-![lecture04_1](images/lecture034_01.png)<br>
-<br>
+ ![lecture04_1](images/lecture04_01.png)<br>
+ <br>
 * EC2 と RDS を構築してください。  
 <br>
 ![lecture04_2](images/lecture04_02.png)<br>  
